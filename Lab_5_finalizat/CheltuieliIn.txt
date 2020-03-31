@@ -1,0 +1,3 @@
+1 10 mancare
+2 30 mancare
+4 60 internet

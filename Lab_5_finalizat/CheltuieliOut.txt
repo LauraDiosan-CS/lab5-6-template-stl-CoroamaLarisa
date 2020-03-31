@@ -1,0 +1,2 @@
+1 10 mancare
+2 30 mancare
